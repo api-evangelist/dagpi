@@ -1,0 +1,32 @@
+aid: dagpi
+name: Dagpi
+description: "Image manipulation and processing"
+url: https://dagpi.xyz
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Photography"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Photography
+  - Public APIs
+apis:
+  - name: Dagpi
+    description: "Image manipulation and processing"
+    humanURL: https://dagpi.xyz
+    baseURL: https://dagpi.xyz
+    tags:
+      - Photography
+    properties:
+      - type: Documentation
+        url: https://dagpi.xyz
+common:
+  - type: Website
+    url: https://dagpi.xyz
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
