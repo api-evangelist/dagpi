@@ -39,7 +39,6 @@ apis:
   - name: Dagpi
     description: "Image manipulation and processing"
     humanURL: https://dagpi.xyz
-    baseURL: https://dagpi.xyz
     tags:
       - Photography
     properties:
